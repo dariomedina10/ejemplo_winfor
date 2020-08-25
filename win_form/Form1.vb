@@ -26,7 +26,7 @@
                                  "Salir del Programa",
                                  MessageBoxButtons.OKCancel,
                                  MessageBoxIcon.Warning)
-
+        ''
         If (opcion2 = DialogResult.OK) Then
 
             MessageBox.Show("Nos Fuimos")
